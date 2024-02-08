@@ -1,0 +1,18 @@
+.campo-texto{
+  text-align: left;
+  font-family: 'Montserrat', monospace;
+  font-size: 18px;
+  font-weight: 600;
+}
+/* .campo-texto label {
+  
+} */
+.campo-texto input {
+  width: 100%;
+  font-size: 24px;
+  padding: 24px;
+  
+  border: none;
+  background-color: #FFFFFF;
+  box-sizing: border-box;
+}
