@@ -2,9 +2,9 @@ import "./banner.css";
 
 const Banner = () => {
   return (
-    <headers class="banner">
+    <header className="banner">
       <img src="/imagens/banner.png" alt="banner principal" />
-    </headers>
+    </header>
   );
 };
 export default Banner;
